@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238919190978",
+    "firebase_url": "https://linkcar-9da0f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "linkcar-9da0f",
+    "storage_bucket": "linkcar-9da0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238919190978:android:f226868288627ee6726e5b",
+        "android_client_info": {
+          "package_name": "com.example.linkcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238919190978-7rp72tkbph1n4gao1nlin4d6e2a5fd7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnA4lbD1I1oE6l6XzWBjTFcHPV762uxBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238919190978-7rp72tkbph1n4gao1nlin4d6e2a5fd7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238919190978-ajt2rkmhp645fc2bqeu33qf2bkhorfgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linkcar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
