@@ -4,6 +4,9 @@ Pas de page d'authentification, l'appli enregistre connecte automatiquement l'ut
 
 pour modifier l'adresse mail / mot de passe lib/main.dart;
 
+si vous vous déconnecté veuillier redémarer l'application, sinon l'application esssayera de se connecté tout de suite après et l'app sera en boucle infini,
+si vous suprimé votre compte veuillier redémarer l'application, sinon l'application esssayera de se connecté tout de suite après et l'app sera en boucle infini
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
